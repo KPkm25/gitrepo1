@@ -1,0 +1,2 @@
+this comment was made in branch1 before merge
+This is a trial to check the functionalities of branching. this comment was made in main
